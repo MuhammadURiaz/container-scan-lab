@@ -1,2 +1,2 @@
-FROM nginx:1.19
+FROM nginx:stable-alpine
 LABEL owner="platform-team" service="lab-payments"
